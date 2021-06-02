@@ -2,4 +2,4 @@
 
 This is my capstone presentation from my 10-week GA data science course!
 
-I'll fluff this README file up later, but for now you can find a detailed summary of this project [here](https://docs.google.com/presentation/d/1Ecs1N8GoiFTWlZf6jdnzCtA5oubzn6S9kD0tBQoPfgQ/edit#slide=id.gc6f73a04f_0_0).
+You can find a detailed summary of this project [here](https://docs.google.com/presentation/d/1Ecs1N8GoiFTWlZf6jdnzCtA5oubzn6S9kD0tBQoPfgQ/edit#slide=id.gc6f73a04f_0_0).
